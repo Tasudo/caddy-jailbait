@@ -1,0 +1,9 @@
+{
+    auto_https disable_redirects
+}
+
+localhost
+
+route {
+    jailbait
+}
