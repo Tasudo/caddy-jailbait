@@ -15,5 +15,5 @@ route {
 
 Install:
 ```bash
-xcaddy build --with github.com/Tasudo/caddy-jailbait
+xcaddy build --with github.com/Tasudo/caddy-jailbait/v2
 ```
